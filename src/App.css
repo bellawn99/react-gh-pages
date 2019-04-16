@@ -31,3 +31,19 @@
     transform: rotate(360deg);
   }
 }
+
+.miring {
+  transform: rotate(45deg);
+}
+
+.miringlagi {
+  transform: rotate(130deg);
+}
+
+.warna{
+  color: blue;
+}
+
+.abu{
+  color: #d3d3d3;
+}
